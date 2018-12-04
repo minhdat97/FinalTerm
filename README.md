@@ -1,4 +1,4 @@
-# Twitter Clone Chirper APP
+# Twitter Clone Web
 This is a Twitter clone app. The app uses Redux store management to ensure that it acts as a single source of truth.
 The app also uses to store some state in React, which is not mutated or used anywhere in the application.
 
